@@ -24,6 +24,7 @@ public class LinkedListDemo {
 
         // 5. Remove elements
         list.remove("Banana"); // remove by value
+
         list.remove(0);        // remove by index
 
         // 6. Size and check empty
