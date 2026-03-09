@@ -43,6 +43,7 @@ public class HashSetDemo {
             System.out.println(itr.next());
         }
 
+
         // 9. Clone HashSet
         HashSet<String> clonedSet = (HashSet<String>) set.clone();
         System.out.println("Cloned set: " + clonedSet);
