@@ -26,7 +26,6 @@ public class ArrayListDemo {
         System.out.println("Element after update: " + list);
 
 
-
         // 5. Remove elements
         list.remove("Banana"); // remove by value
         System.out.println("Element after remove op: " + list);
