@@ -25,6 +25,7 @@ public class VectorDemo {
 
         // 5. Remove elements
         vector.remove("Banana"); // remove by value
+
         vector.remove(0);        // remove by index
 
         // 6. Size and capacity
